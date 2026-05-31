@@ -4,7 +4,7 @@
 > Powered by Groq API. 100% gratuito y open source.
 
 ## 🚀 Demo en vivo
-👉 [josewannan-ai-testgen.streamlit.app](https://...)
+- [ai-test-case-generator-jose-wannan.streamlit.app](https://ai-test-case-generator-jose-wannan.streamlit.app/)
 ---
 
 ## 📋 What it does
